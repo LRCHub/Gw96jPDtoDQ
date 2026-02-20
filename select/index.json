@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "虎狼来",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-20T08:12:06.700408Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虎狼来",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_虎狼来_Eve.txt"
+    }
+  ]
+}
